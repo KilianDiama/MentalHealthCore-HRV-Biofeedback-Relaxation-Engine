@@ -1,3 +1,5 @@
+⚡ Engineered by Kiliandiama | The Diama Protocol [10/10] | All rights reserved.
+
 🧠 MentalHealthCore – HRV Biofeedback & Relaxation Engine
 
 A scientifically inspired Python framework for Heart Rate Variability (HRV) analysis, coherence scoring, and audio-guided relaxation using binaural beats and breathing entrainment.
